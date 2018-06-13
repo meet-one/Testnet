@@ -1,6 +1,6 @@
 # Testnet
 
-public endpoint: http://testnet.meet.one:8888
+public endpoint: http://testnet.meet.one:8888/v1/chain/get_info
 
 
 Test account:
