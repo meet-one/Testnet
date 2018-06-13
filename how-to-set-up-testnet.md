@@ -10,7 +10,7 @@ cd ~
 git clone https://github.com/EOS-Mainnet/eos.git
 cd eos
 git checkout tags/mainnet-1.0.2.2
-git submodule update --recursive
+git submodule update --init --recursive
 # modify eosio_build.sh, change CORE_SYMBOL_NAME="SYS" to CORE_SYMBOL_NAME="EOS"
 ./eosio_build.sh
 cd build
