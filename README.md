@@ -15,6 +15,6 @@ Public key: EOS6vX273GvFCRfHjt8PQKyM9ecocUQnqkS9FGVb5Uid3xjGzCR7S
 
 [how-to-install-wireguard](how-to-install-wireguard.md)
 
-[how-to-install-voting-tool](hhow-to-install-voting-tool.md)
+[how-to-install-voting-tool](how-to-install-voting-tool.md)
 
 [how-to-install-by-docker](how-to-install-by-docker.md)
