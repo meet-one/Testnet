@@ -33,6 +33,9 @@ sudo ln -s ~/eos/build/programs/cleos/cleos /usr/local/bin/cleos
 sudo ln -s ~/eos/build/programs/keosd/keosd /usr/local/bin/keosd
 ```
 
+#### Download config-dir folder to your home directory
+
+
 ## 2.Before Launch
 
 #### Create your wallet
