@@ -1,6 +1,6 @@
 # eos-script
 
-Shell scripts to install and launch an EOSIO node, based on [EOSIO.SG Scripts](https://github.com/eosiosg/scripts).
+Shell scripts to install and launch an EOSIO node.
 
 ## 1.Install
 
