@@ -52,7 +52,7 @@ cleos create key # save your public/private key
 
 #### Import your account 
 ```
-cleos import _PRIVATE_KEY_
+cleos wallet import _PRIVATE_KEY_
 ```
 
 
