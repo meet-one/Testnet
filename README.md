@@ -9,6 +9,7 @@ Private key: 5JLB6hf1cgRAR6kPdHnYaY32Yt9HVnf7emk52SRiGoMaZhWjZDC
 
 Public key: EOS6vX273GvFCRfHjt8PQKyM9ecocUQnqkS9FGVb5Uid3xjGzCR7S
 
+account name: meetonetest1
 
 
 [how-to-set-up-testnet](how-to-set-up-testnet.md)
