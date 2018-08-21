@@ -7,4 +7,4 @@
 
 [how-to-install-voting-tool](how-to-install-voting-tool.md)
 
-[how-to-install-by-docker](how-to-install-by-docker.md)
+[how-to-install-eosio-by-docker](how-to-install-eosio-by-docker.md)
