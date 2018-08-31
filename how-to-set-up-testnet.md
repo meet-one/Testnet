@@ -26,11 +26,9 @@ cd /root/eos/build; make test
 ```
 
 
-#### Create Symbolic Links
+#### Add the eosio bin folder to your PATH
 ```
-sudo ln -s ~/eos/build/programs/nodeos/nodeos /usr/local/bin/nodeos
-sudo ln -s ~/eos/build/programs/cleos/cleos /usr/local/bin/cleos
-sudo ln -s ~/eos/build/programs/keosd/keosd /usr/local/bin/keosd
+echo 'PATH=$PATH:/usr/local/eosio/bin/' >> ~/.profile
 ```
 
 #### Download config-dir folder to your home directory
