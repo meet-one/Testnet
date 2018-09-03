@@ -29,6 +29,7 @@ cd /root/eos/build; make test
 #### Add the eosio bin folder to your PATH
 ```
 echo 'PATH=$PATH:/usr/local/eosio/bin/' >> ~/.profile
+source ~/.profile
 ```
 
 #### Download config-dir folder to your home directory
