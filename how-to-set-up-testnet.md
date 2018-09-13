@@ -12,7 +12,7 @@ cd eos
 git checkout tags/mainnet-1.1.1
 git submodule update --init --recursive
 # modify eosio_build.sh, change CORE_SYMBOL_NAME="SYS" to CORE_SYMBOL_NAME="EOS"
-./eosio_build.sh
+./eosio_build.sh -s EOS
 cd build
 sudo make install
 ```
