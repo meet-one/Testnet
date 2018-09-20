@@ -9,7 +9,7 @@ Shell scripts to install and launch an EOSIO node.
 cd ~
 git clone https://github.com/EOS-Mainnet/eos.git
 cd eos
-git checkout tags/mainnet-1.1.1
+git checkout tags/mainnet-1.3.0
 git submodule update --init --recursive
 ./eosio_build.sh -s EOS
 cd build
