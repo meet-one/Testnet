@@ -15,7 +15,7 @@ cleos wallet unlock
 cleos wallet import
 ```
 
-### launch nodoes
+### launch nodeos
 
 ```
 cd local_testnet
